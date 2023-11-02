@@ -1,0 +1,264 @@
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\appsettings.json
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\package-lock.json
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\package.json
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.exe
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\EPPlus.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.AssemblyReference.cache
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.AssemblyInfoInputs.cache
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.AssemblyInfo.cs
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.CoreCompileInputs.cache
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.ctrlspec.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.build.ctrlspec.props
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ctrlspec.props
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ctrlspec.props
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\scopedcss\bundle\ctrlspec.styles.css
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.CopyComplete
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\refint\ctrlspec.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.pdb
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.deps.json
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.runtimeconfig.json
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.pdb
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.genruntimeconfig.cache
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\obj\Debug\net7.0\ref\ctrlspec.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\MailKit.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\MimeKit.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\NETCore.MailKit.dll
+C:\Users\ratnmpat\OneDrive - Capgemini\Desktop\AzureMigrationAPI\Migration\ctrlspec\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\package-lock.json
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\package.json
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\appsettings.json
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.exe
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.deps.json
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.runtimeconfig.json
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.pdb
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\EPPlus.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\MailKit.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\MimeKit.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\NETCore.MailKit.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.AssemblyReference.cache
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.AssemblyInfoInputs.cache
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.AssemblyInfo.cs
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.CoreCompileInputs.cache
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.ctrlspec.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.build.ctrlspec.props
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ctrlspec.props
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ctrlspec.props
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\scopedcss\bundle\ctrlspec.styles.css
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.CopyComplete
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\refint\ctrlspec.dll
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.pdb
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.genruntimeconfig.cache
+C:\Users\SHURAJ\Downloads\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ref\ctrlspec.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\package-lock.json
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\package.json
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\appsettings.json
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.exe
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.deps.json
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.runtimeconfig.json
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.pdb
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\EPPlus.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\MailKit.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\MimeKit.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\NETCore.MailKit.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.AssemblyReference.cache
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.AssemblyInfoInputs.cache
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.AssemblyInfo.cs
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.CoreCompileInputs.cache
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.ctrlspec.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.build.ctrlspec.props
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ctrlspec.props
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ctrlspec.props
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\scopedcss\bundle\ctrlspec.styles.css
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.CopyComplete
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\refint\ctrlspec.dll
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.pdb
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.genruntimeconfig.cache
+C:\Users\SHURAJ\Desktop\Migration (2)\Migration\ctrlspec\obj\Debug\net7.0\ref\ctrlspec.dll
